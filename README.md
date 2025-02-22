@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # **Encryptor App**
 
 Encryptor is a simple text encryption and decryption mobile application built using **Flutter (Dart)** in **Android Studio**. It implements a basic character replacement encryption algorithm inspired by **C language** logic.
@@ -42,3 +43,21 @@ For any questions or feature requests, feel free to reach out:
 - Email: mdzahidhasanpatwary@gmail.com
 - GitHub: https://github.com/0xZahidp
 
+=======
+# encryptor
+
+An encryptor that saves your text from stealing
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
+>>>>>>> 64fb8d0 (New version of app with setting page)
